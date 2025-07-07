@@ -24,7 +24,7 @@ and supports Monte Carlo dropout for **explainable uncertainty estimation** (XAI
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/XAI_model.git
+git clone https://github.com/jeon9677/XAI_model.git
 
 # Change into the directory
 cd XAI_model
